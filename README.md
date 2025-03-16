@@ -5,7 +5,7 @@ This project is a **Retrieval-Augmented Generation (RAG) chatbot** designed to a
 
 ## Step-by-Step Process  
 
-1. **Data Collection** – Gather publicly available high-quality baseball training articles, blogs, and research papers.  
+1. **Data Collection** – Gather publicly available high-quality baseball training articles, blogs, research papers and short-form/long-form social media posts. 
 2. **Data Preprocessing** – Clean, format, and structure the text for efficient retrieval.  
 3. **Embedding Generation** – Convert text chunks into vector embeddings using `sentence-transformers`.  
 4. **Vector Storage** – Store embeddings in FAISS/Pinecone for fast similarity search.  
